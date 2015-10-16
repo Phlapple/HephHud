@@ -1,0 +1,23 @@
+================================================= EJP-HUD PhapEdit Ft. Hephaestus =================================================
+
+0.8.5: Added button
+
+0.8.1: Updated font
+
+0.8.0: Added crosshair wings
+	-Decreased KawaiiBath glitch rate
+
+0.7.7: ReLabeled Menu Buttons
+
+0.7.5: Removed Gun Mettle News Part
+	-Removed Gun Mettle Quests
+	-Added new buttons
+
+0.7.4: Added Gun Mettle News Part
+
+0.7.3: Added backgrounds for loading screens, (Normal Hephy only)
+
+0.7.0: Added support for extra backgrounds (KawaiiBath)
+
+0.1: Hud Based off EJP-HUD
+
